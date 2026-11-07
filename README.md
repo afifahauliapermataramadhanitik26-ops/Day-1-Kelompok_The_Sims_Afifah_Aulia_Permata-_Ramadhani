@@ -2,6 +2,7 @@
 day 1
 
 --REPOSITORY--
+
 Repository adalah ruang digital yang digunakan untuk menyimpan, mengelola, dan mengatur data atau file proyek.
 tujuan dan kegunaannya:
 - mempermudah kolaborasi proyek
